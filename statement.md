@@ -1,11 +1,5 @@
 # Bash Shell Info
 
-This Bash template lets you get started quickly with a simple one-page playground.
-
-```bash runnable
-echo "Hello World !"
-```
-
 ## Some basic unix commands
 
 - ls
