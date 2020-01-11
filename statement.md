@@ -1,4 +1,4 @@
-# Welcome!
+# Bash Shell Info
 
 This Bash template lets you get started quickly with a simple one-page playground.
 
